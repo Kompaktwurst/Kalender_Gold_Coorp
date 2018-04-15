@@ -1,0 +1,43 @@
+\\bsgg.local\public\homesschueler\2016_bgti\mstolz\visual studio 2015\Projects\Lukas BGTI TWTI\Kalender_V.0.1.2\bin\Debug\Kalender_V.0.1.2.exe.config
+\\bsgg.local\public\homesschueler\2016_bgti\mstolz\visual studio 2015\Projects\Lukas BGTI TWTI\Kalender_V.0.1.2\bin\Debug\Kalender_V.0.1.2.exe
+\\bsgg.local\public\homesschueler\2016_bgti\mstolz\visual studio 2015\Projects\Lukas BGTI TWTI\Kalender_V.0.1.2\bin\Debug\Kalender_V.0.1.2.pdb
+\\bsgg.local\public\homesschueler\2016_bgti\mstolz\visual studio 2015\Projects\Lukas BGTI TWTI\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.csprojResolveAssemblyReference.cache
+\\bsgg.local\public\homesschueler\2016_bgti\mstolz\visual studio 2015\Projects\Lukas BGTI TWTI\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Form1.resources
+\\bsgg.local\public\homesschueler\2016_bgti\mstolz\visual studio 2015\Projects\Lukas BGTI TWTI\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Properties.Resources.resources
+\\bsgg.local\public\homesschueler\2016_bgti\mstolz\visual studio 2015\Projects\Lukas BGTI TWTI\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.csproj.GenerateResource.Cache
+\\bsgg.local\public\homesschueler\2016_bgti\mstolz\visual studio 2015\Projects\Lukas BGTI TWTI\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.exe
+\\bsgg.local\public\homesschueler\2016_bgti\mstolz\visual studio 2015\Projects\Lukas BGTI TWTI\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.pdb
+\\bsgg.local\public\homesschueler\2016_bgti\mstolz\visual studio 2015\Projects\Lukas BGTI TWTI\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Form2.resources
+D:\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.csprojResolveAssemblyReference.cache
+D:\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Form1.resources
+D:\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Form2.resources
+D:\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Properties.Resources.resources
+D:\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.csproj.GenerateResource.Cache
+D:\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.csproj.CoreCompileInputs.cache
+D:\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.exe
+D:\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.pdb
+D:\Kalender_V.0.1.2\bin\Debug\Kalender_V.0.1.2.exe.config
+D:\Kalender_V.0.1.2\bin\Debug\Kalender_V.0.1.2.exe
+D:\Kalender_V.0.1.2\bin\Debug\Kalender_V.0.1.2.pdb
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\bin\Debug\Kalender_V.0.1.2.exe.config
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\bin\Debug\Kalender_V.0.1.2.exe
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\bin\Debug\Kalender_V.0.1.2.pdb
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Properties.Resources.resources
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.csproj.GenerateResource.Cache
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.csproj.CoreCompileInputs.cache
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.exe
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.pdb
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Verwaltung_.resources
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Anmeldung.resources
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Kalender.resources
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Profil_Bearbeitung.resources
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Avatare.resources
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Registrierung.resources
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Credits.resources
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Urlaubstage.resources
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Krankheitstage.resources
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Administration.resources
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V._0._1._2.Tagesplan.resources
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\bin\Debug\AlphaBlendTextBox.dll
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\obj\Debug\Kalender_V.0.1.2.csprojResolveAssemblyReference.cache
+C:\Users\MaxL\Desktop\Kalender_V.0.1.2\bin\Debug\Bunifu_UI_v1.5.3.dll
